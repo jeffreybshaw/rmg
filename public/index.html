@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Random Meal Generator</title>
+    <link rel="icon" type="image/x-icon" href="/favicon.png">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <script>
+        let objs = null;
+
+        (async function getText() {
+            const myObject = await fetch('/db.json');
+            const myText = await myObject.text();
+
+            objs = JSON.parse(myText);
+        })();
+
+        function genAMeal() {
+            const obj = objs[Math.floor(Math.random() * objs.length)];
+            const name = 'name' in obj ? obj['name'] : '';
+            const details = 'details' in obj ? obj['details'] : '';
+
+            document.getElementById('output').innerText = name + '\n' + details;
+        }
+    </script>
+</head>
+<body class="text-center text-bg-dark">
+    <div class="container my-5">
+        <h2>Random Meal Generator</h2>
+        <h6 class="py-3">Don't know what to make?</h6>
+        <button class="btn btn-primary" onclick="genAMeal()">Try this!</button>
+        <div class="my-5">
+            <p class="output" id="output"></p>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,819 @@
+[
+  {
+    "name": "Aloo gobi",
+    "details": "FL pg. 240"
+  },
+  {
+    "name": "Baked bean rice bowls with bbq chicken",
+    "details": "FL pg. 212"
+  },
+  {
+    "name": "Baked fish, veggie and baguettes"
+  },
+  {
+    "name": "Bbq pork sandwiches, cabbage slaw, broccoli"
+  },
+  {
+    "name": "Bean and mushroom enchiladas"
+  },
+  {
+    "name": "Beef burgers and corn"
+  },
+  {
+    "name": "Beef lasagna"
+  },
+  {
+    "name": "Big salad (chicken, chickpeas, bell pepper, olives, tomatoes)"
+  },
+  {
+    "name": "Black bean and mushroom enchiladas"
+  },
+  {
+    "name": "Black beans and mushrooms tacos, cabbage slaw"
+  },
+  {
+    "name": "BLAT pasta salad",
+    "details": "FL pg. 83"
+  },
+  {
+    "name": "Braised cauliflower and tofu"
+  },
+  {
+    "name": "Breakfast burritos (eggs, bacon, avocado)"
+  },
+  {
+    "name": "Brinner"
+  },
+  {
+    "name": "Overnight french toast casserole with bacon"
+  },
+  {
+    "name": "Broccoli and chicken stir-fry",
+    "details": "Martha pg. 334"
+  },
+  {
+    "name": "Broccoli, tofu and noodles",
+    "details": "FL pg. 167"
+  },
+  {
+    "name": "Brown rice stir fry w/ marinated tofu",
+    "details": "Meatless, pg. 74"
+  },
+  {
+    "name": "Brussel sprouts and chicken sausage"
+  },
+  {
+    "name": "Brussel sprouts with bacon and tofu"
+  },
+  {
+    "name": "Buffalo chicken with roasted broccoli and garlic bread"
+  },
+  {
+    "name": "Burgers"
+  },
+  {
+    "name": "Burrito bowl",
+    "details": "https://www.iheartnaptime.net/burrito-bowls/#wprm-recipe-container-68776"
+  },
+  {
+    "name": "Burrito bowl (chicken, rice, bell pepper, black beans)"
+  },
+  {
+    "name": "Burritos, chicken, black beans, onion, bell pepper"
+  },
+  {
+    "name": "Cabbage soup w/bread",
+    "details": "https://www.delish.com/cooking/recipe-ideas/a21581173/best-cabbage-soup-recipe/"
+  },
+  {
+    "name": "Cajun cabbage skillet",
+    "details": "https://www.foodnetwork.com/recipes/food-network-kitchen/cajun-cabbage-skillet-7995934"
+  },
+  {
+    "name": "Carrots, tofu, green onion"
+  },
+  {
+    "name": "Cauliflower and chickpea coconut curry",
+    "details": "FL pg. 93"
+  },
+  {
+    "name": "Cauliflower, tilapia, rice"
+  },
+  {
+    "name": "Cheesy cheese less hamburger pasta",
+    "details": "FL ph. 79"
+  },
+  {
+    "name": "Cherry tomato pasta"
+  },
+  {
+    "name": "Chicken and rice instant pot (add peas)",
+    "details": "https://ifoodreal.com/instant-pot-chicken-and-rice/"
+  },
+  {
+    "name": "Chicken and waffles with brussel sprouts"
+  },
+  {
+    "name": "Chicken broccoli and rice"
+  },
+  {
+    "name": "Chicken curry with rice (add chickpeas)",
+    "details": "Slow cooker pg. 100"
+  },
+  {
+    "name": "Chicken drumsticks with cabbage slaw",
+    "details": "https://www.cookinglight.com/recipes/sweet-bbq-drumsticks"
+  },
+  {
+    "name": "Chicken enchiladas with onion"
+  },
+  {
+    "name": "Chicken fajita casserole with tortillas",
+    "details": "FL pg. 156"
+  },
+  {
+    "name": "Chicken rice bowls",
+    "details": "https://tastesbetterfromscratch.com/instant-pot-chicken-taco-bowls/"
+  },
+  {
+    "name": "Chicken sausages in buns with sauteed kale"
+  },
+  {
+    "name": "Chicken sausages with sweet potatoes"
+  },
+  {
+    "name": "Chicken shawarma"
+  },
+  {
+    "name": "Chicken soup"
+  },
+  {
+    "name": "Chicken tacos",
+    "details": "https://www.cookinglight.com/recipes/instant-pot-chicken-tacos"
+  },
+  {
+    "name": "Chicken tenders with salad"
+  },
+  {
+    "name": "Chicken thigh curry, rice, potato, peas, carrots"
+  },
+  {
+    "name": "Chicken tortilla soup",
+    "details": "https://www.feastingathome.com/instant-pot-chicken-tortilla-soup/#tasty-recipes-20510"
+  },
+  {
+    "name": "Chicken wings and salad"
+  },
+  {
+    "name": "Chicken with asparagus and potatoes"
+  },
+  {
+    "name": "Chicken with potatoes and zucchini"
+  },
+  {
+    "name": "Chicken with sweet potatoes and bell peppers",
+    "details": "https://ifoodreal.com/one-pan-chicken-potatoes/"
+  },
+  {
+    "name": "Chicken, asparagus and baguette"
+  },
+  {
+    "name": "Chicken, broccoli and rice"
+  },
+  {
+    "name": "Chicken, broccoli and sweet potatoes"
+  },
+  {
+    "name": "Chicken, brussel sprouts and quinoa"
+  },
+  {
+    "name": "Chicken, cherry tomatoes, cucumber, goat cheese, rice bowls"
+  },
+  {
+    "name": "Chicken, delicata and bell pepper",
+    "details": "https://ifoodreal.com/one-pan-chicken-potatoes/"
+  },
+  {
+    "name": "Chicken, farro and kale"
+  },
+  {
+    "name": "Chicken, green beans and potatoes"
+  },
+  {
+    "name": "Chicken, green beans and tomatoes with rice",
+    "details": "https://ifoodreal.com/one-pan-chicken-potatoes"
+  },
+  {
+    "name": "Chicken, potatoes and asparagus"
+  },
+  {
+    "name": "Chicken, potatoes and broccoli"
+  },
+  {
+    "name": "Chicken, sweet potato and brussel sprouts",
+    "details": "https://ifoodreal.com/one-pan-chicken-potatoes/"
+  },
+  {
+    "name": "Chicken, sweet potato, bell pepper"
+  },
+  {
+    "name": "Chicken, sweet potatoes and asparagus"
+  },
+  {
+    "name": "Chorizo hash with potatoes and zucchini"
+  },
+  {
+    "name": "Coconut curry with bell peppers carrots chickpeas rice"
+  },
+  {
+    "name": "Corn flake fish and chips",
+    "details": "FL pg. 141"
+  },
+  {
+    "name": "Corn, turkey, cherry tomato and rice mexican bowls"
+  },
+  {
+    "name": "Curried lentils and carrots",
+    "details": "FL pg. 256"
+  },
+  {
+    "name": "Curried shrimp with peas, bell peppers and rice"
+  },
+  {
+    "name": "Curry tofu with rice and veggies (carrots, peas)",
+    "details": "https://www.realsimple.com/food-recipes/browse-all-recipes/curry-coconut-sauce"
+  },
+  {
+    "name": "Curry with rice, shrimp, bell pepper, carrots, and peas"
+  },
+  {
+    "name": "Egg roll in a bowl",
+    "details": "https://www.iheartnaptime.net/egg-roll-in-a-bowl/#wprm-recipe-container-135302"
+  },
+  {
+    "name": "Enchiladas"
+  },
+  {
+    "name": "Enchiladas (chicken, onion, black beans)"
+  },
+  {
+    "name": "Enchiladas (mushrooms, beans, onion)"
+  },
+  {
+    "name": "Farro minestrone soup (add zucchini)",
+    "details": "FL pg. 110"
+  },
+  {
+    "name": "Fish rice broccoli"
+  },
+  {
+    "name": "Fish tacos and cabbage slaw"
+  },
+  {
+    "name": "Fish tacos w/ roasted broccoli"
+  },
+  {
+    "name": "Fish tacos, rice, asparagus"
+  },
+  {
+    "name": "Fish tacos, zucchini"
+  },
+  {
+    "name": "Fish with brussel sprouts and rice"
+  },
+  {
+    "name": "Fish with green beans and rice"
+  },
+  {
+    "name": "Fish with kale and rice"
+  },
+  {
+    "name": "Fish with potatoes and broccoli"
+  },
+  {
+    "name": "Fish with rice and peas"
+  },
+  {
+    "name": "Fish, bread, green beans"
+  },
+  {
+    "name": "Fish, broccoli and rice"
+  },
+  {
+    "name": "Fish, broccoli, rice"
+  },
+  {
+    "name": "Fish, cauliflower, rice"
+  },
+  {
+    "name": "Fish, green beans, rice"
+  },
+  {
+    "name": "Fish, quinoa and green beans"
+  },
+  {
+    "name": "Fish, quinoa, broccoli"
+  },
+  {
+    "name": "Fish, veggies, and quinoa"
+  },
+  {
+    "name": "French bread pizza"
+  },
+  {
+    "name": "Frozen lasagna"
+  },
+  {
+    "name": "Gnocchi with porchetti and pesto"
+  },
+  {
+    "name": "Greek chicken bowls (sub orzo for couscous)",
+    "details": "https://www.foodnetwork.com/recipes/food-network-kitchen/instant-pot-greek-chicken-bowls-5453420"
+  },
+  {
+    "name": "Grilled lentil wraps",
+    "details": "Trader Joe's, pg. 139"
+  },
+  {
+    "name": "Grilled meat, corn, potato salad",
+    "details": "https://www.allrecipes.com/recipe/223380/light-and-easy-greek-potato-salad/"
+  },
+  {
+    "name": "Grilled pork chops, grilled asparagus and bread"
+  },
+  {
+    "name": "Grilled sausages on buns with corn"
+  },
+  {
+    "name": "Grilled sausages, pepper, onion, corn"
+  },
+  {
+    "name": "Ground turkey, broccoli, potatoes"
+  },
+  {
+    "name": "Ground turkey, rice, corn and bell pepper"
+  },
+  {
+    "name": "Hamburger helper",
+    "details": "https://thedefineddish.com/one-pot-hamburger-helper/"
+  },
+  {
+    "name": "Hash with bacon, kale, onion and potatoes"
+  },
+  {
+    "name": "Instant pot bbq chicken sandwiches with cabbage slaw"
+  },
+  {
+    "name": "sheet pan chicken with tomatoes and potatoes",
+    "details": "https://www.feastingathome.com/15-minute-pad-thai/"
+  },
+  {
+    "name": "Mac and cheese",
+    "details": "https://ifoodreal.com/instant-pot-mac-and-cheese"
+  },
+  {
+    "name": "Mac and cheese with peas",
+    "details": "https://goodcheapeats.com/instant-pot-mac-and-cheese/#recipe"
+  },
+  {
+    "name": "Marinated meat with salad (cucumbers)"
+  },
+  {
+    "name": "Mediterranean quinoa salad (chicken, quinoa, cherry tomatoes, cucumber, goat cheese, lemon and evoo dressing)"
+  },
+  {
+    "name": "Mediterrranean couscous salad",
+    "details": "https://www.jessicagavin.com/mediterranean-couscous-salad/"
+  },
+  {
+    "name": "Mexican pizzas (tortillas, bean paste, chicken, tomatoes)"
+  },
+  {
+    "name": "Minestrone soup",
+    "details": "https://www.google.com/amp/s/www.foodnetwork.com/recipes/ellie-krieger/minestrone-soup-recipe-1973378.amp"
+  },
+  {
+    "name": "Miso noodles with tofu and roasted broccoli",
+    "details": "FL pg. 105"
+  },
+  {
+    "name": "Naan pizza with olives and pepperoni"
+  },
+  {
+    "name": "No boil tomato, pea and sausage rigatoni",
+    "details": "FL pg. 155"
+  },
+  {
+    "name": "One pan chicken potatoes",
+    "details": "https://ifoodreal.com/one-pan-chicken-potatoes/"
+  },
+  {
+    "name": "Orzo salad (cucumber, cherry tomatoes, vegan feta, kalamata olives)"
+  },
+  {
+    "name": "Orzo salad with roasted carrots and dill",
+    "details": "Meatless pg. 282"
+  },
+  {
+    "name": "Pad thai with tofu",
+    "details": "https://www.feastingathome.com/15-minute-pad-thai/"
+  },
+  {
+    "name": "Pasta (turkey meatballs, mushrooms, onion)"
+  },
+  {
+    "name": "Pesto orzo with crispy beans and brussel sprouts",
+    "details": "FL pg. 80"
+  },
+  {
+    "name": "Pesto pasta with roasted red peppers and pancetta"
+  },
+  {
+    "name": "Pesto pasta with sausage and sundried tomatoes"
+  },
+  {
+    "name": "Pesto pizza"
+  },
+  {
+    "name": "Pita pizza (olives, peppers, onion, mushrooms, side salad)"
+  },
+  {
+    "name": "Pizza (mushrooms, olives)"
+  },
+  {
+    "name": "Pizza (pepperoni, olives)"
+  },
+  {
+    "name": "Pizza with fennel and sausage"
+  },
+  {
+    "name": "Pizza with mushrooms and artichokes"
+  },
+  {
+    "name": "Polenta fries with sausage and bell pepper"
+  },
+  {
+    "name": "Polenta fries with soy chorizo and bell pepper"
+  },
+  {
+    "name": "Pollo asado tacos with cabbage slaw and corn"
+  },
+  {
+    "name": "Pollo asado tacos with grilled onions and peppers"
+  },
+  {
+    "name": "Pollo asado tacos with salad"
+  },
+  {
+    "name": "Pollo asado with grilled zucchini and guacamole tacos"
+  },
+  {
+    "name": "Pork enchiladas with onion"
+  },
+  {
+    "name": "Pork fried rice (bell pepper, green onion)"
+  },
+  {
+    "name": "Pork sandwiches with potatoes"
+  },
+  {
+    "name": "Pork tacos with cabbage slaw and corn"
+  },
+  {
+    "name": "Potato, chorizo, egg, hash (zucchini, onion?)"
+  },
+  {
+    "name": "Pulled pork sandwiches with fries and tots"
+  },
+  {
+    "name": "Pulled pork sandwiches with slaw"
+  },
+  {
+    "name": "Pulled pork tacos with spanish rice"
+  },
+  {
+    "name": "Pulled pork tacos, cabbage slaw"
+  },
+  {
+    "name": "Quesadillas with bell peppers"
+  },
+  {
+    "name": "Quinoa, cucumber, tomato, goat cheese"
+  },
+  {
+    "name": "Refried beans flatbread",
+    "details": "FL pg. 214"
+  },
+  {
+    "name": "Rice noodles with carrot and bell peppers"
+  },
+  {
+    "name": "Rice, black beans, onion, cherry tomato and avocado bowls"
+  },
+  {
+    "name": "Roasted cauliflower and black bean tacos",
+    "details": "https://www.gimmesomeoven.com/roasted-cauliflower-black-bean-tacos/"
+  },
+  {
+    "name": "Roasted potatoes with eggs and kale"
+  },
+  {
+    "name": "Roasted tilapia, cauliflower and rice"
+  },
+  {
+    "name": "Roasted veggie pasta with pesto",
+    "details": "FL pg. 98"
+  },
+  {
+    "name": "Ropa vieja (slow cooker) with rice",
+    "details": "https://www.myrecipes.com/recipe/slow-cooker-ropa-vieja"
+  },
+  {
+    "name": "Salsa chicken bowls (black beans, rice, corn, onion)"
+  },
+  {
+    "name": "Salsa chicken tacos with cabbage slaw"
+  },
+  {
+    "name": "Sausage and veggie sheet pan meal",
+    "details": "https://www.chelseasmessyapron.com/one-pan-healthy-sausage-and-veggies/"
+  },
+  {
+    "name": "Sausage hot dogs with corn"
+  },
+  {
+    "name": "Sausage with asparagus and rice"
+  },
+  {
+    "name": "Sausage with sweet potatoes"
+  },
+  {
+    "name": "Sausage with zucchini, tomatoes and lentils"
+  },
+  {
+    "name": "Sausage, carrot and green beans with crusty bread",
+    "details": "https://www.recipegirl.com/sheet-pan-roasted-veggies-and-sausage/"
+  },
+  {
+    "name": "Sausage, tomato and quinoa bowls"
+  },
+  {
+    "name": "Sausages and corn"
+  },
+  {
+    "name": "Sausages and green beans"
+  },
+  {
+    "name": "Sausages and grilled zucchini"
+  },
+  {
+    "name": "Sausages and peppers"
+  },
+  {
+    "name": "Sausages and sweet potato fries"
+  },
+  {
+    "name": "Sausages with asparagus"
+  },
+  {
+    "name": "Sausages with corn on the cob"
+  },
+  {
+    "name": "Sausages with corn, carrots and sweet potato fries"
+  },
+  {
+    "name": "Sausages with frozen sweet potato fries"
+  },
+  {
+    "name": "Sausages with kale"
+  },
+  {
+    "name": "Sesame ginger stir fry",
+    "details": "FL pg. 86"
+  },
+  {
+    "name": "Sesame noodle salad (sub any pasta for udon)",
+    "details": "https://www.foodnetwork.com/recipes/food-network-kitchen/sesame-noodle-salad-3764799"
+  },
+  {
+    "name": "Sesame tofu and broccoli trees",
+    "details": "FL pg. 167"
+  },
+  {
+    "name": "Sheet pan corn flake fish and chips",
+    "details": "FL pg. 141"
+  },
+  {
+    "name": "Sheet pan sausage and veggies (carrots, bell pepper and potatoes)",
+    "details": "https://www.chelseasmessyapron.com/one-pan-healthy-sausage-and-veggies/"
+  },
+  {
+    "name": "Shrimp and cauliflower"
+  },
+  {
+    "name": "Shrimp cake with delicata squash and bread",
+    "details": "https://herbsandflour.com/easy-shrimp-cakes/#recipe"
+  },
+  {
+    "name": "Shrimp cakes with brussel sprouts",
+    "details": "https://herbsandflour.com/easy-shrimp-cakes/#recipe"
+  },
+  {
+    "name": "Shrimp curry with bell peppers, peas and rice",
+    "details": "https://www.realsimple.com/food-recipes/browse-all-recipes/curry-coconut-sauce"
+  },
+  {
+    "name": "Shrimp scampi pasta with asparagus"
+  },
+  {
+    "name": "Shrimp tacos with cabbage slaw"
+  },
+  {
+    "name": "Shrimp, carrots and rice"
+  },
+  {
+    "name": "Shrimp, cauliflower, fingerlings"
+  },
+  {
+    "name": "Shrimp, cauliflower, rice"
+  },
+  {
+    "name": "Shrimp, garlic bread, broccoli"
+  },
+  {
+    "name": "Shrimp, green beans and rice"
+  },
+  {
+    "name": "Shrimp, kale, quinoa"
+  },
+  {
+    "name": "Shrimp, kale, rice"
+  },
+  {
+    "name": "Shrimp, quinoa, frozen peas"
+  },
+  {
+    "name": "Shrimp, rice and asparagus"
+  },
+  {
+    "name": "Shrimp, rice and broccoli"
+  },
+  {
+    "name": "Sloppy joe's with broccoli slaw",
+    "details": "Trader joe's pg. 170"
+  },
+  {
+    "name": "Slow cooker bbq chicken sandwiches with coleslaw"
+  },
+  {
+    "name": "Slow cooker chicken noodle soup",
+    "details": "https://www.delish.com/cooking/recipe-ideas/recipes/a55661/easy-crockpot-chicken-noodle-soup-recipe/"
+  },
+  {
+    "name": "Slow cooker sausage with pepper hoagies",
+    "details": "FL pg. 259"
+  },
+  {
+    "name": "Slow cooker soup",
+    "details": "https://damndelicious.net/2015/03/21/slow-cooker-sausage-spinach-and-white-bean-soup/"
+  },
+  {
+    "name": "Soup with broth, butternut squash, onion, bacon"
+  },
+  {
+    "name": "Spaghetti carbonara",
+    "details": "Trader Joe's, pg. 135"
+  },
+  {
+    "name": "Steak and salmon with potatoes and asparagus"
+  },
+  {
+    "name": "Sweet potato and red lentil curry (slow cooker)",
+    "details": "https://www.cookinglight.com/recipes/sweet-potato-and-red-lentil-curry"
+  },
+  {
+    "name": "Sweet potato, black bean and egg hash"
+  },
+  {
+    "name": "Sweet potato, farro, kale"
+  },
+  {
+    "name": "Sweet potato, ham and cheese cups"
+  },
+  {
+    "name": "Taco soup (slow cooker)",
+    "details": "Trader joe's pg. 57"
+  },
+  {
+    "name": "Tacos with green beans"
+  },
+  {
+    "name": "Taquitos with beans and cheese",
+    "details": "https://www.twopeasandtheirpod.com/black-bean-cheese-taquitos/"
+  },
+  {
+    "name": "Tilapia tacos with cabbage slaw"
+  },
+  {
+    "name": "Tilapia tacos with corn, bell pepper, avocado relish"
+  },
+  {
+    "name": "Tilapia with frozen veggies and rice"
+  },
+  {
+    "name": "Tilapia, quinoa, frozen veggies"
+  },
+  {
+    "name": "Tilapia, sweet potatoes, brussel sprouts"
+  },
+  {
+    "name": "Tilapia, zucchini and tomatoes"
+  },
+  {
+    "name": "Tofu and carrots with rice"
+  },
+  {
+    "name": "Tofu cabbage noodles"
+  },
+  {
+    "name": "Tofu curry and rice",
+    "details": "https://www.realsimple.com/food-recipes/browse-all-recipes/curry-coconut-sauce"
+  },
+  {
+    "name": "Tofu noodle stir fry"
+  },
+  {
+    "name": "Tofu with broccoli and noodles",
+    "details": "FL pg. 167"
+  },
+  {
+    "name": "Tofu, carrots, rice"
+  },
+  {
+    "name": "Tofu, rice, cauliflower"
+  },
+  {
+    "name": "Tofu, romanesco and rice"
+  },
+  {
+    "name": "Tomato, pea and sausage rigatoni",
+    "details": "FL pg. 155"
+  },
+  {
+    "name": "Turkey broccoli pasta",
+    "details": "https://ifoodreal.com/ground-turkey-and-broccoli-pasta/#wprm-recipe-container-44174"
+  },
+  {
+    "name": "Turkey burgers and cauliflower"
+  },
+  {
+    "name": "Turkey burgers and corn"
+  },
+  {
+    "name": "Turkey burgers and fries"
+  },
+  {
+    "name": "Turkey burgers and roasted potatoes"
+  },
+  {
+    "name": "Turkey burgers and salad"
+  },
+  {
+    "name": "Turkey burgers and sweet potatoes"
+  },
+  {
+    "name": "Turkey burgers with sweet potato fries"
+  },
+  {
+    "name": "Turkey burritos (rice, beans, salsa)"
+  },
+  {
+    "name": "Turkey enchiladas"
+  },
+  {
+    "name": "Turkey meatball subs with cabbage"
+  },
+  {
+    "name": "Unstuffed turkey pepper skillet",
+    "details": "FL pg. 270"
+  },
+  {
+    "name": "Vegan pumpkin waffles with eggs",
+    "details": "FL pg. 49"
+  },
+  {
+    "name": "Vietnamese chicken noodle soup",
+    "details": "Cooking light pg. 331"
+  },
+  {
+    "name": "Whole bowl clone (rice, black beans, black olives, pico, avocado)"
+  },
+  {
+    "name": "Zucchini meatballs with orzo and feta (sub turkey for lamb)",
+    "details": "FL pg. 207"
+  },
+  {
+    "name": "Zucchini patties in pita bread",
+    "details": "Meatless pg. 236"
+  }
+]
